@@ -1,0 +1,145 @@
+.wptdb_css_sep {
+height:10px;
+margin-top:10px;margin-bottom:10px;
+}
+
+.wptdb_css_optionh1 {
+background-repeat:no-repeat;
+background-position:center left;
+margin:0px;
+padding:0px;
+padding-left:30px;
+margin-bottom:10px;
+font-weight:normal;
+font-family:calibri;
+font-size:21px;
+}
+
+.wptdb_css_optionh1 a,.wptdb_css_optionh1 a:link,.wptdb_css_optionh1 a:visited{
+color:inherit
+}
+
+.wptdb_css_oneblock {
+padding:10px;
+border:1px solid #dddddd;
+background-color:#fff;
+-moz-border-radius:10px;
+margin-bottom:40px;
+}
+
+.wptdb_css_oneblock h4 {
+margin:0px;padding:3px;
+margin-bottom:6px;
+border-top:1px solid #fff;
+border-bottom:1px solid #bbbbbb;
+background:#f4f4f4;
+color:#333333
+}
+
+.wptdb_css_optionblock {
+padding-top:10px;
+padding-bottom:15px;
+border-bottom:1px solid #d1d1d1;
+margin-bottom:10px;
+}
+
+.wptdb_css_optionblock select {
+margin-bottom:5px;
+}
+
+.wptdb_css_notice {
+background:#FFFFDB;border:1px solid #C2C63F;padding:4px;
+}
+
+.wptdb_css_standout {
+color:#CE2356;
+font-weight:bold
+}
+
+.wptdb_css_button {
+border:1px solid #ba2e29 !important;
+background-image:url(../images/button2.gif);
+}
+
+.wptdb_css_button:hover {
+border:1px solid #5f1613 !important;
+}
+
+.wptdb_format_tags_div {
+font-size:11px;
+padding:5px;
+background:#f1f1f1;
+border:1px solid #cccccc;
+display:none;
+}
+
+.wptdb_css_onetheme {
+padding:15px;
+border-right:1px solid #dddddd;
+border-bottom:1px solid #dddddd;
+}
+
+.wptdb_css_onetheme_themename {
+font-size:24px;
+font-family:georgia;
+font-weight:normal;
+color:#555555
+}
+
+.wptdb_css_onetheme_childthemename {
+font-family:verdana;
+font-size:11px;
+}
+
+.wptdb_css_onetheme_ss {
+background-color:#eeeeee;
+padding:6px;
+width:150px;
+height:112px;
+float:left;
+background-image:url(../images/no-ss.gif);
+background-position:center center;
+background-repeat:no-repeat;
+}
+
+.wptdb_css_onetheme_ss:hover {
+background-color:#dddddd;
+}
+
+.wptdb_css_onetheme_textarea {
+font-size:11px;
+width:232px;
+line-height:14px;
+margin:0 auto;
+font-family:lucida sans unicode;
+margin-top:10px;
+margin-bottom:10px;
+color:#777777
+}
+
+.wptdb_css_onetheme_sep {
+background-image:url(../images/sep.gif);
+height:125px;
+width:5px;
+background-repeat:repeat-y;
+float:left;
+margin-right:20px;
+margin-left:20px;
+}
+
+.wptdb_css_onetheme ul {
+float:left
+}
+
+.wptdb_css_onetheme ul li {
+border-bottom:1px solid #dddddd;
+padding:5px;
+font-size:11px;
+}
+
+.wptdb_css_bignum {
+font-size:19px;
+font-family:georgia;
+font-weight:normal;
+color:#555555
+}

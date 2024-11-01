@@ -1,0 +1,16 @@
+.wptdb_css_oneblock {
+display:none
+}
+
+.wptdb_css_optionh1 a:hover {
+text-decoration:underline;
+}
+
+.wptdb_css_optionh1 a,.wptdb_css_optionh1 a:link,.wptdb_css_optionh1 a:visited{
+cursor:pointer;
+cursor:hand;
+}
+
+.wptdb_css_oneblock {
+margin-bottom:10px;
+}
